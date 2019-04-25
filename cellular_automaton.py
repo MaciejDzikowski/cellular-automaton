@@ -1,13 +1,11 @@
+"""
+cellular automaton
+"""
+
 import numpy as np
 import matplotlib.pyplot as plt
 import argparse
 import matplotlib.animation as anim
-
-"""
-Obliczenia naukowe
-Projekt 1.: Automaty komorkowe
-Maciej Dzikowski
-"""
 
 # korzystam z modulu argparse
 parser = argparse.ArgumentParser(description='Automaty komorkowe')
